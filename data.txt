@@ -1,0 +1,3 @@
+read boks|1
+gym|1
+drink water|1
