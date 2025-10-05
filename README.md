@@ -9,4 +9,4 @@ All tasks are saved automatically in `data.txt`.
 🚀 How to Run
 1. Open your terminal or PowerShell.
 2. Navigate to the project folder.
-3. Then use the command python app.py to activate 
+3. Then use the command python app.py to activate the code.
